@@ -28,7 +28,7 @@ jobs:
           template: classic
           base: repositories, metadata
           config_timezone: Europe/Amsterdam
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_ignored: deployer, explorer
           plugin_achievements_secrets: no
@@ -49,4 +49,4 @@ jobs:
           plugin_lines: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_traffic: yes
+          plugin_traffic: no
