@@ -88,16 +88,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.23mb of code in 1907 edited files across 164 commits over last 13 days</small>
+                <small>estimation from 4.29mb of code in 1970 edited files across 195 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.3838434454657" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="304.3838434454657" y="0" width="147.51203301992538" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="451.8958764653911" y="0" width="6.921261192356889" height="8" fill="#1797c0"/>
-                    <rect mask="url(#languages-bar)" x="458.81713765774794" y="0" width="1.1828623422520539" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.882615616504" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.882615616504" y="0" width="78.78882643789882" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.6714420544028" y="0" width="3.696769922100607" height="8" fill="#1797c0"/>
+                    <rect mask="url(#languages-bar)" x="459.3682119765034" y="0" width="0.631788023496598" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1153,6 +1153,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1174,7 +1179,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>myanvoos/algoMIDI</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Algorithms as instruments.</div>
@@ -1221,7 +1226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sieren/midimittrusb</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">midimittr USB - Desktop companion for midimittr iOS app</div>
@@ -1268,7 +1273,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sieren/midimittr</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">midimittr is an iOS app for MIDI over Bluetooth and USB</div>
@@ -1318,7 +1323,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Mar 2025, 05:25:58 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2025, 05:29:06 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
